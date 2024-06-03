@@ -1,2 +1,2 @@
 # fibonacci.py
-Python code to generate n term of the Fibonacci Series
+Python code to generate **_n_** term of the Fibonacci Series
